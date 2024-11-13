@@ -15,8 +15,4 @@ module.exports = {
     ],
   ],
 };
-<script
-  defer
-  src="https://umami.coutures.top/script.js"
-  data-website-id="329c7841-7942-4748-baca-1fc32cbdd16f"
-></script>;
+
